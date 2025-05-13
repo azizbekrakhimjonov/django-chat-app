@@ -57,8 +57,3 @@
         room_name coulm added into Message Module to connect messages with room
     
     
-  
-  #### Room "lobby"
-  
-  <img src="media/photos/Lobby.jpg" alt="" >
-    
