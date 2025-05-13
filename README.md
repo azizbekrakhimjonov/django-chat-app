@@ -57,19 +57,6 @@
         room_name coulm added into Message Module to connect messages with room
     
     
-  ### 📸 Chat Application
-  
-  #### Registration Page
-  
-  <img src="media/photos/Registration.jpg" alt="" >
-  
-  #### Dashboard
-  
-  <img src="media/photos/Dashboard.jpg" alt="" >
-  
-  #### Search
-  
-  <img src="media/photos/Search.jpg" alt="" >
   
   #### Room "lobby"
   
